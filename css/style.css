@@ -1,0 +1,63 @@
+@import url("components/banner.css");
+@import url("components/container.css");
+@import url("components/icons.css");
+@import url("components/button.css");
+@import url("https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@1,700&family=Lora&display=swap");
+
+
+body{
+	font-family: Lora, serif;
+	font-size: 16px;
+	margin: 0;
+	background-color: #ff6a0c;
+}
+
+h1,h2{
+	font-family: Courier, sans-serif;
+	font-weight: bold;
+	text-align: center;
+}
+
+a {
+	color: #742fdc;
+	text-decoration: none;
+	transition: 0,5s;
+}
+a:hover {
+	color: white;
+}
+
+.card-white {
+	background: white;
+	padding: 40px;
+	border-radius: 5px;
+	box-shadow: 5px 10px 30px rgb(0, 0, 0, 0.3);
+	width: 900px;
+	margin: 10px auto;
+}
+.card-white h2{
+	color: #FC440F;
+}
+
+p{
+	text-align: justify;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
